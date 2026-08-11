@@ -9,7 +9,7 @@ A **Confeitaria Sempre Doce** deseja expandir sua atuação criando um site para
  - Nome Completo
  - Telefone
  - E-mail
- - Endereço (logradrouro, bairro, estado, cep, cidade
+ - Endereço (logradrouro, bairro, estado, cep, cidade)
 
 **RF02**: O sistema deve permitir que o cliente envie uma mensagem com as informações do seu pedido, a mensagem sera enviada via formulário do sistema preenchendo os seguintes campos:
 
@@ -18,5 +18,9 @@ A **Confeitaria Sempre Doce** deseja expandir sua atuação criando um site para
  - Telefone
  - Endereço
  - Texto da mensagem
+
+
+ ## Modelagem conceitual
+ ![](modelo%20conceitual%20.png)
 
   
